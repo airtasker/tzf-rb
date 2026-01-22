@@ -1,5 +1,11 @@
 ## [Unreleased]
 
+## [0.4.6] - 2026-01-22
+
+- Add Ruby 3.4 support #3
+- Update magnus from 0.6 to 0.7 for Ruby 3.4 compatibility
+- Update rb-sys from 0.9.82 to 0.9.103
+
 ## [0.4.5] 2024-01-02
 
 - Bump tzf-rs to 0.4.5 #8
